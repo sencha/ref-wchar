@@ -30,7 +30,7 @@
   "homepage": "https://github.com/TooTallNate/ref-wchar",
   "dependencies": {
     "iconv": "craigcomstocks/node-iconv#prebuilt",
-    "ref": "^1.3.1"
+    "ref": "craigcomstocks/ref#find-by-abi"
   },
   "devDependencies": {
     "bindings": "~1.2.0",
