@@ -29,8 +29,8 @@
   },
   "homepage": "https://github.com/TooTallNate/ref-wchar",
   "dependencies": {
-    "iconv": "craigcomstocks/node-iconv#prebuilt",
-    "ref": "craigcomstocks/ref#find-by-abi"
+    "iconv": "sencha/node-iconv#find-by-abi",
+    "ref": "sencha/ref#find-by-abi"
   },
   "devDependencies": {
     "bindings": "~1.2.0",

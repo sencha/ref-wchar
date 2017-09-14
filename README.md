@@ -1,5 +1,7 @@
 ref-wchar
 ==========
+NOTE: for sencha/ref-wchar we have not hosted the native devDependencies modules needed. This is left as an exercise for the reader/developer.
+
 ### A ref "type" implementation of `wchar_t *` (a.k.a. wide string) backed by "node-iconv"
 [![Build Status](https://secure.travis-ci.org/TooTallNate/ref-wchar.svg)](https://travis-ci.org/TooTallNate/ref-wchar)
 [![Build Status](https://ci.appveyor.com/api/projects/status/xmne006y9jma3pm0?svg=true)](https://ci.appveyor.com/project/TooTallNate/ref-wchar)
